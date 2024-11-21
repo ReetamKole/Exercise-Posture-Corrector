@@ -1,13 +1,14 @@
-#Welcome to the Posture Corrector project repository! This project applies machine learning and computer vision to analyze and improve exercise form for users performing workouts at home or without supervision. By detecting common posture errors during exercises, the system ensures safer and more effective fitness routines.
+# Welcome to the Posture Corrector project repository! This project applies machine learning and computer vision to analyze and improve exercise form for users performing workouts at home or without supervision. By detecting common posture errors during exercises, the system ensures safer and more effective fitness routines.
 
-#Overview
+## Overview
 Project Goal
 To develop machine learning models capable of detecting and correcting posture errors in four popular exercises:
 
-#Bicep Curl
-#Plank
-#Squat
-#Push-up
+
+## Bicep Curl
+## Plank
+## Squat
+## Push-up
 Core Technologies
 MediaPipe: For real-time human pose detection.
 TensorFlow/Keras: For building and training neural network models.
